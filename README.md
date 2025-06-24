@@ -8,7 +8,6 @@
 
 ## 🛠️ Skills & Technologies
 - Python 🐍  
-- Machine Learning (ML) 🤖  
 - Git & GitHub 💡  
 - Pandas, NumPy
 - Html,Basic css
