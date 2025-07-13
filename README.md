@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **AI, Machine Learning, and Data Analysis**
 - 💬 Ask me about **Python, NumPy, Pandas, Matplotlib**
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/anushka-singh-5b6874353/) (add your link)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/anushka-singh-5b6874353/) 
 - ⚡ Fun fact: I love working on creative data projects!
 
 ### 🛠️ Languages & Tools
