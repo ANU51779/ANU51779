@@ -2,7 +2,7 @@
 <h3 align="center">AI & Data Science enthusiast from India 🇮🇳</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ANUS1779&label=Profile%20views&color=0e75b6&style=flat" alt="ANUS1779" />
+  <img src="https://komarev.com/ghpvc/?username=ANU51779&label=Profile%20views&color=0e75b6&style=flat" alt="ANU51779" />
 </p>
 
 - 🌱 I’m currently learning **AI, Machine Learning, and Data Analysis**
@@ -21,5 +21,5 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ANUS1779&show_icons=true&theme=radical" alt="ANUS1779 stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ANU51779&show_icons=true&theme=radical" alt="ANU51779 stats"/>
 </p>
